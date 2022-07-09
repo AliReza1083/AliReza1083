@@ -23,16 +23,6 @@ So, I’m here to make it easy for you, and I want you to come with me...
 [<img align="left" alt="Figma" width="13px" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png">][figma]
 
 
-<hr>
-
-```html
-  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-  <script>
-    AOS.init();
-  </script>
-```
-
-
 [twitter]: https://twitter.com/webDeveloper83
 [vscode]: https://code.visualstudio.com/
 [figma]: https://www.figma.com/
