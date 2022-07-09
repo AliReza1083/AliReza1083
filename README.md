@@ -12,18 +12,14 @@
 ### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png">][vscode]
-### I love how Visual Studio Code is designed, You can do lots of thing with it: 
-- Very fast and Light
-- lots of Language Available
-- lots of Themes
-- lots of Extensions
-- very Popular
-- Free
-- Supported platforms: Windows, Luix, maxOS
-<img align="left" alt="Visual Studio Code" width="100%" src="https://miro.medium.com/max/11068/0*eInINzH9Nfm17jNK">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://www.softorks.com/Images/css.jpg">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.pinimg.com/originals/98/0b/a0/980ba07956ccfdf81b5060b1795cdcad.png">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png">
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png">][figma]
 
-<br>
 
 
 [twitter]: https://twitter.com/webDeveloper83
 [vscode]: https://code.visualstudio.com/
+[figma]: https://www.figma.com/
