@@ -1,6 +1,8 @@
 ### Hi there, I'm Ali 
 
-<img align="left" alt="Hyper Text Markup Language" width="100%" src="Banner.png" style="border-radius: 1em;">
+<img align="left" alt="Hyper Text Markup Language" width="100%" src="Banner.png">
+
+<br>
 
 ## I'm a Web Developer
 - 👋 Hi, I’m @AliReza1083
