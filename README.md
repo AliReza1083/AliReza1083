@@ -11,7 +11,7 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png">] [vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png">][vscode]
 ### I love how Visual Studio Code is designed, You can do lots of thing with it: 
 - Very fast and Light
 - lots of Language Available
