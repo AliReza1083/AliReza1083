@@ -2,7 +2,7 @@
 
 <img align="left" alt="Hyper Text Markup Language" width="100%" src="Banner.png">
 
-<br>
+<hr>
 
 ## I'm a Web Developer
 - 👋 Hi, I’m @AliReza1083
