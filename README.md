@@ -11,4 +11,4 @@ I like to collabrate with Developer for learning new thingns from them.
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AliReza1083&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=274DFF"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alireza1083&show_icons=true&theme=github_dark"></p>
