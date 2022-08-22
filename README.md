@@ -11,4 +11,17 @@ I like to collabrate with Developer for learning new thingns from them.
 </p>
 
 
+## Languages 🗣️ and Stats 📶
+
+<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
+
+> **Note** <br>
+> I'll start learning React from next Month, Right now I'm getting myself for that.
+
+<hr>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alireza1083&show_icons=true&theme=github_dark"></p>
