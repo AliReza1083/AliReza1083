@@ -11,12 +11,13 @@ I like to collabrate with Developer for learning new thingns from them.
 </p>
 
 
-## Languages 🗣️ and Stats 📶
+## Languages and Stats
 
 <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
 
 > **Note** <br>
