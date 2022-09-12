@@ -21,7 +21,7 @@ I like to collabrate with Developer for learning new thingns from them.
 <a href="#"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
 
 > **Note** <br>
-> I'll start learning React from next Month, Right now I'm getting myself for that.
+> I'll learning `ReactJS` in Udemy by [ZTM](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
 <hr>
 
