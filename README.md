@@ -1,4 +1,4 @@
-<p align="center">IN THE NAME OF GOD</p>
+<p align="center">IN THE NAME OF ALLAH</p>
 
 <img src="image/GitHub banner.png">
 
