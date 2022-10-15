@@ -7,7 +7,7 @@
 <p align="center">
 I am a Front-End Developer, In the future I might change it to Full-Stack Developer With the help of God. <br>
 My Name is <a href="https://twitter.com/Ali_Developer05">Ali Reza</a>, and it’s been 1.5 years that I’m Coding and has learnt so many things. <br>
-I like to collabrate with Developer for learning new thingns from them.
+I like to collaborate with Developer for learning new things from them.
 </p>
 
 
