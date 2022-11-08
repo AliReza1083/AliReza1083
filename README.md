@@ -13,12 +13,16 @@ I like to collaborate with Developer for learning new things from them.
 
 ## Languages and Stats
 
-<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
+<a href="#"><img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
+<img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge">
+<img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/express.js-%23000000.svg?logo=express&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge">
+<img src="https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge">
 
 > **Note** <br>
 > I'll learning `ReactJS` in Udemy by [ZTM](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
