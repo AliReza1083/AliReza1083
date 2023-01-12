@@ -28,16 +28,5 @@ I like to collaborate with Developer for learning new things from them.
 > **Note** <br>
 > I'll learning `ReactJS` in Udemy by [ZTM](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
-<hr>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alireza1083&show_icons=true&theme=github_dark"></p>
-
-## Projects
-<a href="#">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alireza1083&repo=Portfolio&theme=github_dark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alireza1083&repo=UltraMovie&theme=github_dark">
-  </p>
-</a>
 
 
