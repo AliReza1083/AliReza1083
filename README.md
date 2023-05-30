@@ -18,15 +18,11 @@ I like to collaborate with Developer for learning new things from them.
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge">
   <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/express.js-%23000000.svg?logo=express&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge">
   <img src="https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge">
 </div>
-
-> **Note** <br>
-> I'll learning `ReactJS` in Udemy by [ZTM](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
 
 
