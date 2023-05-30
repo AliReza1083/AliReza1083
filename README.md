@@ -5,11 +5,12 @@
 <p><a href="https://twitter.com/intent/follow?screen_name=Ali_Developer05"><img src="https://img.shields.io/twitter/follow/Ali_Developer05?logo=twitter&style=for-the-badge"></a></p>
 
 <p align="center">
-I am a Front-End Developer, In the future I might change it to Full-Stack Developer With the help of God. <br>
-My Name is <a href="https://twitter.com/Ali_Developer05">Ali Reza</a>, and it’s been 1.5 years that I’m Coding and has learnt so many things. <br>
-I like to collaborate with Developer for learning new things from them.
+  Hi, my name is <a href="https://www.alirezasamadi.com/">Ali Reza</a> and I am a web developer with over 2 years of experience in the field. I specialize in front-end development and have a strong background in ReactJS. I am always looking to learn and grow as a developer, and I am excited to work on new and challenging. projects
 </p>
 
+## My Currect Stacks
+
+<img src="https://skillicons.dev/icons?i=next,typescript,redux,tailwindcss,vercel,firebase,figma,framer-motion" />
 
 ## Languages and Stats
 <div align="center">
